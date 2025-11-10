@@ -10,4 +10,11 @@ The encrypter uses the following conditions:
 - The letter `o` is converted to `ober`.
 - The letter `u` is converted to `ufat`.
 
+### 💡 Example
+
+| Input | Encrypted | Decrypted |
+|:------|:-----------|:-----------|
+| hola | hoberlai | hola |
+| encriptar | enterncrimesptair | encriptar |
+
 ### [🛠 Stack Used](techstack.md)
